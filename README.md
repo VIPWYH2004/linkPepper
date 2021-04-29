@@ -1,5 +1,5 @@
 # linkPepper
-***
+
 ###个人学习使用
 > Pepper机器人的几个通信方案  
 > 机器人型号: Pepper (NAOqi 2.5)
